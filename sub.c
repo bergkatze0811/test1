@@ -1,5 +1,5 @@
 #include<Nagai.h>
 void sub(){
-	printf("Shigeo2!\n");
+	printf("Shigeo3!\n");
 }
 
